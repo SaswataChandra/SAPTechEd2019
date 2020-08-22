@@ -1,0 +1,1101 @@
+[{
+	"ID": "SH001",
+	"Date": "May 13",
+	"StockLevel": 43,
+	"ProductID": "NB-001"
+}, {
+	"ID": "SH002",
+	"Date": "May 13",
+	"StockLevel": 23,
+	"ProductID": "NB-002"
+}, {
+	"ID": "SH003",
+	"Date": "May 13",
+	"StockLevel": 7,
+	"ProductID": "NB-003"
+}, {
+	"ID": "SH004",
+	"Date": "May 13",
+	"StockLevel": 37,
+	"ProductID": "NB-004"
+}, {
+	"ID": "SH005",
+	"Date": "May 13",
+	"StockLevel": 31,
+	"ProductID": "NB-005"
+}, {
+	"ID": "SH006",
+	"Date": "May 13",
+	"StockLevel": 17,
+	"ProductID": "PC-01"
+}, {
+	"ID": "SH007",
+	"Date": "May 13",
+	"StockLevel": 35,
+	"ProductID": "PC-02"
+}, {
+	"ID": "SH008",
+	"Date": "May 13",
+	"StockLevel": 9,
+	"ProductID": "SC-01"
+}, {
+	"ID": "SH009",
+	"Date": "May 13",
+	"StockLevel": 13,
+	"ProductID": "SC-02"
+}, {
+	"ID": "SH010",
+	"Date": "May 13",
+	"StockLevel": 16,
+	"ProductID": "SC-03"
+}, {
+	"ID": "SH011",
+	"Date": "May 13",
+	"StockLevel": 40,
+	"ProductID": "SC-04"
+}, {
+	"ID": "SH012",
+	"Date": "May 13",
+	"StockLevel": 11,
+	"ProductID": "PR-001"
+}, {
+	"ID": "SH013",
+	"Date": "May 13",
+	"StockLevel": 11,
+	"ProductID": "PR-002"
+}, {
+	"ID": "SH014",
+	"Date": "May 13",
+	"StockLevel": 6,
+	"ProductID": "PR-003"
+}, {
+	"ID": "SH015",
+	"Date": "May 13",
+	"StockLevel": 45,
+	"ProductID": "PR-004"
+}, {
+	"ID": "SH016",
+	"Date": "May 13",
+	"StockLevel": 26,
+	"ProductID": "UT-001"
+}, {
+	"ID": "SH017",
+	"Date": "May 13",
+	"StockLevel": 49,
+	"ProductID": "UT-002"
+}, {
+	"ID": "SH018",
+	"Date": "May 13",
+	"StockLevel": 11,
+	"ProductID": "UT-003"
+}, {
+	"ID": "SH019",
+	"Date": "May 13",
+	"StockLevel": 13,
+	"ProductID": "UT-004"
+}, {
+	"ID": "SH020",
+	"Date": "May 13",
+	"StockLevel": 13,
+	"ProductID": "UT-005"
+}, {
+	"ID": "SH021",
+	"Date": "May 13",
+	"StockLevel": 30,
+	"ProductID": "UT-006"
+}, {
+	"ID": "SH022",
+	"Date": "May 13",
+	"StockLevel": 22,
+	"ProductID": "UT-007"
+}, {
+	"ID": "SH023",
+	"Date": "May 14",
+	"StockLevel": 7,
+	"ProductID": "NB-001"
+}, {
+	"ID": "SH024",
+	"Date": "May 14",
+	"StockLevel": 34,
+	"ProductID": "NB-002"
+}, {
+	"ID": "SH025",
+	"Date": "May 14",
+	"StockLevel": 34,
+	"ProductID": "NB-003"
+}, {
+	"ID": "SH026",
+	"Date": "May 14",
+	"StockLevel": 42,
+	"ProductID": "NB-004"
+}, {
+	"ID": "SH027",
+	"Date": "May 14",
+	"StockLevel": 47,
+	"ProductID": "NB-005"
+}, {
+	"ID": "SH028",
+	"Date": "May 14",
+	"StockLevel": 48,
+	"ProductID": "PC-01"
+}, {
+	"ID": "SH029",
+	"Date": "May 14",
+	"StockLevel": 39,
+	"ProductID": "PC-02"
+}, {
+	"ID": "SH030",
+	"Date": "May 14",
+	"StockLevel": 50,
+	"ProductID": "SC-01"
+}, {
+	"ID": "SH031",
+	"Date": "May 14",
+	"StockLevel": 49,
+	"ProductID": "SC-02"
+}, {
+	"ID": "SH032",
+	"Date": "May 14",
+	"StockLevel": 13,
+	"ProductID": "SC-03"
+}, {
+	"ID": "SH033",
+	"Date": "May 14",
+	"StockLevel": 44,
+	"ProductID": "SC-04"
+}, {
+	"ID": "SH034",
+	"Date": "May 14",
+	"StockLevel": 18,
+	"ProductID": "PR-001"
+}, {
+	"ID": "SH035",
+	"Date": "May 14",
+	"StockLevel": 49,
+	"ProductID": "PR-002"
+}, {
+	"ID": "SH036",
+	"Date": "May 14",
+	"StockLevel": 40,
+	"ProductID": "PR-003"
+}, {
+	"ID": "SH037",
+	"Date": "May 14",
+	"StockLevel": 50,
+	"ProductID": "PR-004"
+}, {
+	"ID": "SH038",
+	"Date": "May 14",
+	"StockLevel": 40,
+	"ProductID": "UT-001"
+}, {
+	"ID": "SH039",
+	"Date": "May 14",
+	"StockLevel": 27,
+	"ProductID": "UT-002"
+}, {
+	"ID": "SH040",
+	"Date": "May 14",
+	"StockLevel": 5,
+	"ProductID": "UT-003"
+}, {
+	"ID": "SH041",
+	"Date": "May 14",
+	"StockLevel": 12,
+	"ProductID": "UT-004"
+}, {
+	"ID": "SH042",
+	"Date": "May 14",
+	"StockLevel": 43,
+	"ProductID": "UT-005"
+}, {
+	"ID": "SH043",
+	"Date": "May 14",
+	"StockLevel": 8,
+	"ProductID": "UT-006"
+}, {
+	"ID": "SH044",
+	"Date": "May 14",
+	"StockLevel": 25,
+	"ProductID": "UT-007"
+}, {
+	"ID": "SH045",
+	"Date": "May 15",
+	"StockLevel": 36,
+	"ProductID": "NB-001"
+}, {
+	"ID": "SH046",
+	"Date": "May 15",
+	"StockLevel": 45,
+	"ProductID": "NB-002"
+}, {
+	"ID": "SH047",
+	"Date": "May 15",
+	"StockLevel": 43,
+	"ProductID": "NB-003"
+}, {
+	"ID": "SH048",
+	"Date": "May 15",
+	"StockLevel": 25,
+	"ProductID": "NB-004"
+}, {
+	"ID": "SH049",
+	"Date": "May 15",
+	"StockLevel": 25,
+	"ProductID": "NB-005"
+}, {
+	"ID": "SH050",
+	"Date": "May 15",
+	"StockLevel": 9,
+	"ProductID": "PC-01"
+}, {
+	"ID": "SH051",
+	"Date": "May 15",
+	"StockLevel": 14,
+	"ProductID": "PC-02"
+}, {
+	"ID": "SH052",
+	"Date": "May 15",
+	"StockLevel": 33,
+	"ProductID": "SC-01"
+}, {
+	"ID": "SH053",
+	"Date": "May 15",
+	"StockLevel": 24,
+	"ProductID": "SC-02"
+}, {
+	"ID": "SH054",
+	"Date": "May 15",
+	"StockLevel": 21,
+	"ProductID": "SC-03"
+}, {
+	"ID": "SH055",
+	"Date": "May 15",
+	"StockLevel": 37,
+	"ProductID": "SC-04"
+}, {
+	"ID": "SH056",
+	"Date": "May 15",
+	"StockLevel": 5,
+	"ProductID": "PR-001"
+}, {
+	"ID": "SH057",
+	"Date": "May 15",
+	"StockLevel": 20,
+	"ProductID": "PR-002"
+}, {
+	"ID": "SH058",
+	"Date": "May 15",
+	"StockLevel": 32,
+	"ProductID": "PR-003"
+}, {
+	"ID": "SH059",
+	"Date": "May 15",
+	"StockLevel": 41,
+	"ProductID": "PR-004"
+}, {
+	"ID": "SH060",
+	"Date": "May 15",
+	"StockLevel": 35,
+	"ProductID": "UT-001"
+}, {
+	"ID": "SH061",
+	"Date": "May 15",
+	"StockLevel": 42,
+	"ProductID": "UT-002"
+}, {
+	"ID": "SH062",
+	"Date": "May 15",
+	"StockLevel": 41,
+	"ProductID": "UT-003"
+}, {
+	"ID": "SH063",
+	"Date": "May 15",
+	"StockLevel": 25,
+	"ProductID": "UT-004"
+}, {
+	"ID": "SH064",
+	"Date": "May 15",
+	"StockLevel": 35,
+	"ProductID": "UT-005"
+}, {
+	"ID": "SH065",
+	"Date": "May 15",
+	"StockLevel": 48,
+	"ProductID": "UT-006"
+}, {
+	"ID": "SH066",
+	"Date": "May 15",
+	"StockLevel": 40,
+	"ProductID": "UT-007"
+}, {
+	"ID": "SH067",
+	"Date": "May 16",
+	"StockLevel": 30,
+	"ProductID": "NB-001"
+}, {
+	"ID": "SH068",
+	"Date": "May 16",
+	"StockLevel": 9,
+	"ProductID": "NB-002"
+}, {
+	"ID": "SH069",
+	"Date": "May 16",
+	"StockLevel": 10,
+	"ProductID": "NB-003"
+}, {
+	"ID": "SH070",
+	"Date": "May 16",
+	"StockLevel": 10,
+	"ProductID": "NB-004"
+}, {
+	"ID": "SH071",
+	"Date": "May 16",
+	"StockLevel": 25,
+	"ProductID": "NB-005"
+}, {
+	"ID": "SH072",
+	"Date": "May 16",
+	"StockLevel": 26,
+	"ProductID": "PC-01"
+}, {
+	"ID": "SH073",
+	"Date": "May 16",
+	"StockLevel": 7,
+	"ProductID": "PC-02"
+}, {
+	"ID": "SH074",
+	"Date": "May 16",
+	"StockLevel": 40,
+	"ProductID": "SC-01"
+}, {
+	"ID": "SH075",
+	"Date": "May 16",
+	"StockLevel": 17,
+	"ProductID": "SC-02"
+}, {
+	"ID": "SH076",
+	"Date": "May 16",
+	"StockLevel": 28,
+	"ProductID": "SC-03"
+}, {
+	"ID": "SH077",
+	"Date": "May 16",
+	"StockLevel": 42,
+	"ProductID": "SC-04"
+}, {
+	"ID": "SH078",
+	"Date": "May 16",
+	"StockLevel": 17,
+	"ProductID": "PR-001"
+}, {
+	"ID": "SH079",
+	"Date": "May 16",
+	"StockLevel": 36,
+	"ProductID": "PR-002"
+}, {
+	"ID": "SH080",
+	"Date": "May 16",
+	"StockLevel": 20,
+	"ProductID": "PR-003"
+}, {
+	"ID": "SH081",
+	"Date": "May 16",
+	"StockLevel": 45,
+	"ProductID": "PR-004"
+}, {
+	"ID": "SH082",
+	"Date": "May 16",
+	"StockLevel": 37,
+	"ProductID": "UT-001"
+}, {
+	"ID": "SH083",
+	"Date": "May 16",
+	"StockLevel": 16,
+	"ProductID": "UT-002"
+}, {
+	"ID": "SH084",
+	"Date": "May 16",
+	"StockLevel": 32,
+	"ProductID": "UT-003"
+}, {
+	"ID": "SH085",
+	"Date": "May 16",
+	"StockLevel": 19,
+	"ProductID": "UT-004"
+}, {
+	"ID": "SH086",
+	"Date": "May 16",
+	"StockLevel": 18,
+	"ProductID": "UT-005"
+}, {
+	"ID": "SH087",
+	"Date": "May 16",
+	"StockLevel": 17,
+	"ProductID": "UT-006"
+}, {
+	"ID": "SH088",
+	"Date": "May 16",
+	"StockLevel": 24,
+	"ProductID": "UT-007"
+}, {
+	"ID": "SH089",
+	"Date": "May 17",
+	"StockLevel": 40,
+	"ProductID": "NB-001"
+}, {
+	"ID": "SH090",
+	"Date": "May 17",
+	"StockLevel": 13,
+	"ProductID": "NB-002"
+}, {
+	"ID": "SH091",
+	"Date": "May 17",
+	"StockLevel": 15,
+	"ProductID": "NB-003"
+}, {
+	"ID": "SH092",
+	"Date": "May 17",
+	"StockLevel": 16,
+	"ProductID": "NB-004"
+}, {
+	"ID": "SH093",
+	"Date": "May 17",
+	"StockLevel": 35,
+	"ProductID": "NB-005"
+}, {
+	"ID": "SH094",
+	"Date": "May 17",
+	"StockLevel": 36,
+	"ProductID": "PC-01"
+}, {
+	"ID": "SH095",
+	"Date": "May 17",
+	"StockLevel": 34,
+	"ProductID": "PC-02"
+}, {
+	"ID": "SH096",
+	"Date": "May 17",
+	"StockLevel": 39,
+	"ProductID": "SC-01"
+}, {
+	"ID": "SH097",
+	"Date": "May 17",
+	"StockLevel": 33,
+	"ProductID": "SC-02"
+}, {
+	"ID": "SH098",
+	"Date": "May 17",
+	"StockLevel": 42,
+	"ProductID": "SC-03"
+}, {
+	"ID": "SH099",
+	"Date": "May 17",
+	"StockLevel": 24,
+	"ProductID": "SC-04"
+}, {
+	"ID": "SH100",
+	"Date": "May 17",
+	"StockLevel": 36,
+	"ProductID": "PR-001"
+}, {
+	"ID": "SH101",
+	"Date": "May 17",
+	"StockLevel": 37,
+	"ProductID": "PR-002"
+}, {
+	"ID": "SH102",
+	"Date": "May 17",
+	"StockLevel": 8,
+	"ProductID": "PR-003"
+}, {
+	"ID": "SH103",
+	"Date": "May 17",
+	"StockLevel": 18,
+	"ProductID": "PR-004"
+}, {
+	"ID": "SH104",
+	"Date": "May 17",
+	"StockLevel": 36,
+	"ProductID": "UT-001"
+}, {
+	"ID": "SH105",
+	"Date": "May 17",
+	"StockLevel": 17,
+	"ProductID": "UT-002"
+}, {
+	"ID": "SH106",
+	"Date": "May 17",
+	"StockLevel": 17,
+	"ProductID": "UT-003"
+}, {
+	"ID": "SH107",
+	"Date": "May 17",
+	"StockLevel": 46,
+	"ProductID": "UT-004"
+}, {
+	"ID": "SH108",
+	"Date": "May 17",
+	"StockLevel": 37,
+	"ProductID": "UT-005"
+}, {
+	"ID": "SH109",
+	"Date": "May 17",
+	"StockLevel": 29,
+	"ProductID": "UT-006"
+}, {
+	"ID": "SH110",
+	"Date": "May 17",
+	"StockLevel": 42,
+	"ProductID": "UT-007"
+}, {
+	"ID": "SH111",
+	"Date": "May 20",
+	"StockLevel": 41,
+	"ProductID": "NB-001"
+}, {
+	"ID": "SH112",
+	"Date": "May 20",
+	"StockLevel": 10,
+	"ProductID": "NB-002"
+}, {
+	"ID": "SH113",
+	"Date": "May 20",
+	"StockLevel": 35,
+	"ProductID": "NB-003"
+}, {
+	"ID": "SH114",
+	"Date": "May 20",
+	"StockLevel": 21,
+	"ProductID": "NB-004"
+}, {
+	"ID": "SH115",
+	"Date": "May 20",
+	"StockLevel": 48,
+	"ProductID": "NB-005"
+}, {
+	"ID": "SH116",
+	"Date": "May 20",
+	"StockLevel": 19,
+	"ProductID": "PC-01"
+}, {
+	"ID": "SH117",
+	"Date": "May 20",
+	"StockLevel": 21,
+	"ProductID": "PC-02"
+}, {
+	"ID": "SH118",
+	"Date": "May 20",
+	"StockLevel": 41,
+	"ProductID": "SC-01"
+}, {
+	"ID": "SH119",
+	"Date": "May 20",
+	"StockLevel": 31,
+	"ProductID": "SC-02"
+}, {
+	"ID": "SH120",
+	"Date": "May 20",
+	"StockLevel": 5,
+	"ProductID": "SC-03"
+}, {
+	"ID": "SH121",
+	"Date": "May 20",
+	"StockLevel": 37,
+	"ProductID": "SC-04"
+}, {
+	"ID": "SH122",
+	"Date": "May 20",
+	"StockLevel": 43,
+	"ProductID": "PR-001"
+}, {
+	"ID": "SH123",
+	"Date": "May 20",
+	"StockLevel": 43,
+	"ProductID": "PR-002"
+}, {
+	"ID": "SH124",
+	"Date": "May 20",
+	"StockLevel": 15,
+	"ProductID": "PR-003"
+}, {
+	"ID": "SH125",
+	"Date": "May 20",
+	"StockLevel": 5,
+	"ProductID": "PR-004"
+}, {
+	"ID": "SH126",
+	"Date": "May 20",
+	"StockLevel": 6,
+	"ProductID": "UT-001"
+}, {
+	"ID": "SH127",
+	"Date": "May 20",
+	"StockLevel": 16,
+	"ProductID": "UT-002"
+}, {
+	"ID": "SH128",
+	"Date": "May 20",
+	"StockLevel": 9,
+	"ProductID": "UT-003"
+}, {
+	"ID": "SH129",
+	"Date": "May 20",
+	"StockLevel": 10,
+	"ProductID": "UT-004"
+}, {
+	"ID": "SH130",
+	"Date": "May 20",
+	"StockLevel": 30,
+	"ProductID": "UT-005"
+}, {
+	"ID": "SH131",
+	"Date": "May 20",
+	"StockLevel": 27,
+	"ProductID": "UT-006"
+}, {
+	"ID": "SH132",
+	"Date": "May 20",
+	"StockLevel": 48,
+	"ProductID": "UT-007"
+}, {
+	"ID": "SH133",
+	"Date": "May 21",
+	"StockLevel": 23,
+	"ProductID": "NB-001"
+}, {
+	"ID": "SH134",
+	"Date": "May 21",
+	"StockLevel": 50,
+	"ProductID": "NB-002"
+}, {
+	"ID": "SH135",
+	"Date": "May 21",
+	"StockLevel": 42,
+	"ProductID": "NB-003"
+}, {
+	"ID": "SH136",
+	"Date": "May 21",
+	"StockLevel": 50,
+	"ProductID": "NB-004"
+}, {
+	"ID": "SH137",
+	"Date": "May 21",
+	"StockLevel": 29,
+	"ProductID": "NB-005"
+}, {
+	"ID": "SH138",
+	"Date": "May 21",
+	"StockLevel": 19,
+	"ProductID": "PC-01"
+}, {
+	"ID": "SH139",
+	"Date": "May 21",
+	"StockLevel": 50,
+	"ProductID": "PC-02"
+}, {
+	"ID": "SH140",
+	"Date": "May 21",
+	"StockLevel": 34,
+	"ProductID": "SC-01"
+}, {
+	"ID": "SH141",
+	"Date": "May 21",
+	"StockLevel": 23,
+	"ProductID": "SC-02"
+}, {
+	"ID": "SH142",
+	"Date": "May 21",
+	"StockLevel": 36,
+	"ProductID": "SC-03"
+}, {
+	"ID": "SH143",
+	"Date": "May 21",
+	"StockLevel": 14,
+	"ProductID": "SC-04"
+}, {
+	"ID": "SH144",
+	"Date": "May 21",
+	"StockLevel": 46,
+	"ProductID": "PR-001"
+}, {
+	"ID": "SH145",
+	"Date": "May 21",
+	"StockLevel": 19,
+	"ProductID": "PR-002"
+}, {
+	"ID": "SH146",
+	"Date": "May 21",
+	"StockLevel": 33,
+	"ProductID": "PR-003"
+}, {
+	"ID": "SH147",
+	"Date": "May 21",
+	"StockLevel": 35,
+	"ProductID": "PR-004"
+}, {
+	"ID": "SH148",
+	"Date": "May 21",
+	"StockLevel": 23,
+	"ProductID": "UT-001"
+}, {
+	"ID": "SH149",
+	"Date": "May 21",
+	"StockLevel": 14,
+	"ProductID": "UT-002"
+}, {
+	"ID": "SH150",
+	"Date": "May 21",
+	"StockLevel": 41,
+	"ProductID": "UT-003"
+}, {
+	"ID": "SH151",
+	"Date": "May 21",
+	"StockLevel": 12,
+	"ProductID": "UT-004"
+}, {
+	"ID": "SH152",
+	"Date": "May 21",
+	"StockLevel": 32,
+	"ProductID": "UT-005"
+}, {
+	"ID": "SH153",
+	"Date": "May 21",
+	"StockLevel": 15,
+	"ProductID": "UT-006"
+}, {
+	"ID": "SH154",
+	"Date": "May 21",
+	"StockLevel": 47,
+	"ProductID": "UT-007"
+}, {
+	"ID": "SH155",
+	"Date": "May 22",
+	"StockLevel": 34,
+	"ProductID": "NB-001"
+}, {
+	"ID": "SH156",
+	"Date": "May 22",
+	"StockLevel": 46,
+	"ProductID": "NB-002"
+}, {
+	"ID": "SH157",
+	"Date": "May 22",
+	"StockLevel": 13,
+	"ProductID": "NB-003"
+}, {
+	"ID": "SH158",
+	"Date": "May 22",
+	"StockLevel": 23,
+	"ProductID": "NB-004"
+}, {
+	"ID": "SH159",
+	"Date": "May 22",
+	"StockLevel": 10,
+	"ProductID": "NB-005"
+}, {
+	"ID": "SH160",
+	"Date": "May 22",
+	"StockLevel": 25,
+	"ProductID": "PC-01"
+}, {
+	"ID": "SH161",
+	"Date": "May 22",
+	"StockLevel": 8,
+	"ProductID": "PC-02"
+}, {
+	"ID": "SH162",
+	"Date": "May 22",
+	"StockLevel": 42,
+	"ProductID": "SC-01"
+}, {
+	"ID": "SH163",
+	"Date": "May 22",
+	"StockLevel": 17,
+	"ProductID": "SC-02"
+}, {
+	"ID": "SH164",
+	"Date": "May 22",
+	"StockLevel": 37,
+	"ProductID": "SC-03"
+}, {
+	"ID": "SH165",
+	"Date": "May 22",
+	"StockLevel": 40,
+	"ProductID": "SC-04"
+}, {
+	"ID": "SH166",
+	"Date": "May 22",
+	"StockLevel": 28,
+	"ProductID": "PR-001"
+}, {
+	"ID": "SH167",
+	"Date": "May 22",
+	"StockLevel": 20,
+	"ProductID": "PR-002"
+}, {
+	"ID": "SH168",
+	"Date": "May 22",
+	"StockLevel": 45,
+	"ProductID": "PR-003"
+}, {
+	"ID": "SH169",
+	"Date": "May 22",
+	"StockLevel": 35,
+	"ProductID": "PR-004"
+}, {
+	"ID": "SH170",
+	"Date": "May 22",
+	"StockLevel": 27,
+	"ProductID": "UT-001"
+}, {
+	"ID": "SH171",
+	"Date": "May 22",
+	"StockLevel": 37,
+	"ProductID": "UT-002"
+}, {
+	"ID": "SH172",
+	"Date": "May 22",
+	"StockLevel": 43,
+	"ProductID": "UT-003"
+}, {
+	"ID": "SH173",
+	"Date": "May 22",
+	"StockLevel": 33,
+	"ProductID": "UT-004"
+}, {
+	"ID": "SH174",
+	"Date": "May 22",
+	"StockLevel": 49,
+	"ProductID": "UT-005"
+}, {
+	"ID": "SH175",
+	"Date": "May 22",
+	"StockLevel": 30,
+	"ProductID": "UT-006"
+}, {
+	"ID": "SH176",
+	"Date": "May 22",
+	"StockLevel": 29,
+	"ProductID": "UT-007"
+}, {
+	"ID": "SH177",
+	"Date": "May 23",
+	"StockLevel": 17,
+	"ProductID": "NB-001"
+}, {
+	"ID": "SH178",
+	"Date": "May 23",
+	"StockLevel": 21,
+	"ProductID": "NB-002"
+}, {
+	"ID": "SH179",
+	"Date": "May 23",
+	"StockLevel": 34,
+	"ProductID": "NB-003"
+}, {
+	"ID": "SH180",
+	"Date": "May 23",
+	"StockLevel": 43,
+	"ProductID": "NB-004"
+}, {
+	"ID": "SH181",
+	"Date": "May 23",
+	"StockLevel": 10,
+	"ProductID": "NB-005"
+}, {
+	"ID": "SH182",
+	"Date": "May 23",
+	"StockLevel": 38,
+	"ProductID": "PC-01"
+}, {
+	"ID": "SH183",
+	"Date": "May 23",
+	"StockLevel": 38,
+	"ProductID": "PC-02"
+}, {
+	"ID": "SH184",
+	"Date": "May 23",
+	"StockLevel": 33,
+	"ProductID": "SC-01"
+}, {
+	"ID": "SH185",
+	"Date": "May 23",
+	"StockLevel": 47,
+	"ProductID": "SC-02"
+}, {
+	"ID": "SH186",
+	"Date": "May 23",
+	"StockLevel": 13,
+	"ProductID": "SC-03"
+}, {
+	"ID": "SH187",
+	"Date": "May 23",
+	"StockLevel": 44,
+	"ProductID": "SC-04"
+}, {
+	"ID": "SH188",
+	"Date": "May 23",
+	"StockLevel": 30,
+	"ProductID": "PR-001"
+}, {
+	"ID": "SH189",
+	"Date": "May 23",
+	"StockLevel": 36,
+	"ProductID": "PR-002"
+}, {
+	"ID": "SH190",
+	"Date": "May 23",
+	"StockLevel": 5,
+	"ProductID": "PR-003"
+}, {
+	"ID": "SH191",
+	"Date": "May 23",
+	"StockLevel": 38,
+	"ProductID": "PR-004"
+}, {
+	"ID": "SH192",
+	"Date": "May 23",
+	"StockLevel": 47,
+	"ProductID": "UT-001"
+}, {
+	"ID": "SH193",
+	"Date": "May 23",
+	"StockLevel": 49,
+	"ProductID": "UT-002"
+}, {
+	"ID": "SH194",
+	"Date": "May 23",
+	"StockLevel": 36,
+	"ProductID": "UT-003"
+}, {
+	"ID": "SH195",
+	"Date": "May 23",
+	"StockLevel": 8,
+	"ProductID": "UT-004"
+}, {
+	"ID": "SH196",
+	"Date": "May 23",
+	"StockLevel": 18,
+	"ProductID": "UT-005"
+}, {
+	"ID": "SH197",
+	"Date": "May 23",
+	"StockLevel": 41,
+	"ProductID": "UT-006"
+}, {
+	"ID": "SH198",
+	"Date": "May 23",
+	"StockLevel": 45,
+	"ProductID": "UT-007"
+}, {
+	"ID": "SH199",
+	"Date": "May 24",
+	"StockLevel": 15,
+	"ProductID": "NB-001"
+}, {
+	"ID": "SH200",
+	"Date": "May 24",
+	"StockLevel": 35,
+	"ProductID": "NB-002"
+}, {
+	"ID": "SH201",
+	"Date": "May 24",
+	"StockLevel": 37,
+	"ProductID": "NB-003"
+}, {
+	"ID": "SH202",
+	"Date": "May 24",
+	"StockLevel": 21,
+	"ProductID": "NB-004"
+}, {
+	"ID": "SH203",
+	"Date": "May 24",
+	"StockLevel": 6,
+	"ProductID": "NB-005"
+}, {
+	"ID": "SH204",
+	"Date": "May 24",
+	"StockLevel": 43,
+	"ProductID": "PC-01"
+}, {
+	"ID": "SH205",
+	"Date": "May 24",
+	"StockLevel": 11,
+	"ProductID": "PC-02"
+}, {
+	"ID": "SH206",
+	"Date": "May 24",
+	"StockLevel": 25,
+	"ProductID": "SC-01"
+}, {
+	"ID": "SH207",
+	"Date": "May 24",
+	"StockLevel": 49,
+	"ProductID": "SC-02"
+}, {
+	"ID": "SH208",
+	"Date": "May 24",
+	"StockLevel": 24,
+	"ProductID": "SC-03"
+}, {
+	"ID": "SH209",
+	"Date": "May 24",
+	"StockLevel": 22,
+	"ProductID": "SC-04"
+}, {
+	"ID": "SH210",
+	"Date": "May 24",
+	"StockLevel": 29,
+	"ProductID": "PR-001"
+}, {
+	"ID": "SH211",
+	"Date": "May 24",
+	"StockLevel": 40,
+	"ProductID": "PR-002"
+}, {
+	"ID": "SH212",
+	"Date": "May 24",
+	"StockLevel": 14,
+	"ProductID": "PR-003"
+}, {
+	"ID": "SH213",
+	"Date": "May 24",
+	"StockLevel": 37,
+	"ProductID": "PR-004"
+}, {
+	"ID": "SH214",
+	"Date": "May 24",
+	"StockLevel": 39,
+	"ProductID": "UT-001"
+}, {
+	"ID": "SH215",
+	"Date": "May 24",
+	"StockLevel": 41,
+	"ProductID": "UT-002"
+}, {
+	"ID": "SH216",
+	"Date": "May 24",
+	"StockLevel": 12,
+	"ProductID": "UT-003"
+}, {
+	"ID": "SH217",
+	"Date": "May 24",
+	"StockLevel": 35,
+	"ProductID": "UT-004"
+}, {
+	"ID": "SH218",
+	"Date": "May 24",
+	"StockLevel": 19,
+	"ProductID": "UT-005"
+}, {
+	"ID": "SH219",
+	"Date": "May 24",
+	"StockLevel": 5,
+	"ProductID": "UT-006"
+}, {
+	"ID": "SH220",
+	"Date": "May 24",
+	"StockLevel": 40,
+	"ProductID": "UT-007"
+}]

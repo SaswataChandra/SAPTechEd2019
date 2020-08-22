@@ -1,0 +1,37 @@
+[{
+	"ID": "S1",
+	"SupplierName": "EZ screens",
+	"Address": "144 Princess St",
+	"City": "Manchester",
+	"PostalCode": "M17EP",
+	"Country": "United Kingdom",
+	"Email": "contact@ezscreens.co.uk",
+	"Phone": "+44 (0)20 3626 7911"
+}, {
+	"ID": "S2",
+	"SupplierName": "Print service Gmbh",
+	"Address": "Albrechtstrasse 13",
+	"City": "Munich",
+	"PostalCode": "80636",
+	"Country": "Germany",
+	"Email": "requests@print-service.com",
+	"Phone": "0800/5 34 34 24"
+}, {
+	"ID": "S3",
+	"SupplierName": "ComputerWare",
+	"Address": "17 avenue de Villiers",
+	"City": "Paris",
+	"PostalCode": "75017",
+	"Country": "France",
+	"Email": "sales@computerware.com",
+	"Phone": "(+33)1 23 45 67 89"
+}, {
+	"ID": "S4",
+	"SupplierName": "ComputerWare",
+	"Address": "17 avenue de Villiers",
+	"City": "Paris",
+	"PostalCode": "75017",
+	"Country": "France",
+	"Email": "sales@computerware.com",
+	"Phone": "(+33)1 23 45 67 89"
+}]
